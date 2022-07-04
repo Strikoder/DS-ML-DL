@@ -9,7 +9,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/strikoder) projects.
 ## Python
 | Project | Description |
 | --- | --- |
-| `Datacamp/ Netflix` |Visual and analytical inspection of netflix's data. |
+| `Netflix - Datacamp` |Visual and analytical inspection of netflix's data. |
 
 ## R
 | Project | Description |
