@@ -1,6 +1,6 @@
 # Welcome to my data science repo, make yourself at home ^^
 
-## You can either check my projects
+## You can check [my projects](https://github.com/Strikoder/Data-Science/tree/main/Projects)
 ## OR
 ## My data Science roadmap
 
