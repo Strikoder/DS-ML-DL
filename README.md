@@ -1,7 +1,7 @@
 # Data Science Roadmap
 
 <p align="center"> 
-<img src="https://cdn-images-1.medium.com/max/1200/1*E1haIGB9K4K89PsFZgm-pw.jpeg" width="600">
+<img src="https://media.proglib.io/posts/2020/08/28/90db79d10aad3cf4486d8420c9cdc16b.png" width="800">
 </p>
 
 My roadmap to study Data Science.
