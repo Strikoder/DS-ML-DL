@@ -1,4 +1,7 @@
-# Data Science Roadmap
+# Welcome to my data science repo, make yourself at home ^^
+## You can either check my projects
+# OR
+## My data Science roadmap
 
 <p align="center"> 
 <img src="https://media.proglib.io/posts/2020/08/28/90db79d10aad3cf4486d8420c9cdc16b.png" width="800">
