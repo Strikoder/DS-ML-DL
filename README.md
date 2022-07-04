@@ -4,7 +4,7 @@
 <img src="https://media.proglib.io/posts/2020/08/28/90db79d10aad3cf4486d8420c9cdc16b.png" width="800">
 </p>
 
-My roadmap to study Data Science.
+My humble data science roadmap.
 
 ## Programming
 ### Python
