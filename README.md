@@ -9,7 +9,7 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/strikoder) projects.
 ## Python
 | Project | Description |
 | --- | --- |
-| `Netflix` | Analyze the network of characters in Game of Thrones and how it changes over the course of the books. |
+| `Datacamp/ Netflix` |Visual and analytical inspection of netflix's data. |
 
 ## R
 | Project | Description |
