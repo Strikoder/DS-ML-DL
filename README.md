@@ -15,7 +15,7 @@ My humble data science roadmap.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [DataCamp](https://www.datacamp.com/tracks/python-programmer) | Python Programmer | **Completed** |
+| [DataCamp](https://www.datacamp.com/tracks/python-programmer) | Python Programmer | **In progress** |
 
 
 ### R
@@ -28,7 +28,7 @@ My humble data science roadmap.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/progfun1) | Functional Programming Principles in Scala | To Do |
+| [Coursera](https://www.coursera.org/learn/progfun1) | Functional Programming Principles in Scala | TODO |
 
 
 ### Algorithms & Data Structures
