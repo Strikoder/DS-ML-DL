@@ -1,6 +1,7 @@
 # Welcome to my data science repo, make yourself at home ^^
+
 ## You can either check my projects
-# OR
+## OR
 ## My data Science roadmap
 
 <p align="center"> 
