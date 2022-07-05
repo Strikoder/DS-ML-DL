@@ -17,11 +17,13 @@ My humble data science roadmap.
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [DataCamp](https://www.datacamp.com/tracks/python-programmer)|Python Programmer| **In progress** |
+| [DataCamp](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6)|Data Scientist with Python| **In progress** |
 | [Free coding camp](https://www.freecodecamp.org/learn/scientific-computing-with-python)|Scientific computing with python|**In progress**|
-| [IBM](https://www.coursera.org/professional-certificates/ibm-data-science)|IBM Data Science Professional Certificate|***TODO***|
 | [Code basics](https://codebasics.io/courses/data-science-full-course-for-beginners)|Data science for beigneers|**In progress**|
-| [Python projects](https://github.com/Strikoder/Python)|100 Days of code(python)|**In progress**|
+| [IBM](https://www.coursera.org/professional-certificates/ibm-data-science)|IBM Data Science Professional Certificate|***TODO***|
+
+## [Python projects](https://github.com/Strikoder/Python)
+
 
 ## Data science with R
 ### Courses
@@ -36,13 +38,6 @@ My humble data science roadmap.
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-
-
-## Algorithms & Data Structures
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
 
 ---
 # AI related
@@ -61,7 +56,7 @@ My humble data science roadmap.
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [stepik](https://stepik.org/course/109539/syllabus)|Deep Learning Specialization |**In progress**|
+| [stepik](https://stepik.org/course/109539/syllabus)|Deep Learning Specialization in Russian |**In progress**|
 
 
 ## MLOps
@@ -140,9 +135,14 @@ My humble data science roadmap.
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-|[Coursera](https://www.coursera.org/learn/ai-for-everyone)|AI For Everyone |**Completed**|
+| [1MILLIONARABCODERSINITIATIVE](https://drive.google.com/file/d/1yi91vUhufCSHkWjDhrU0mu2jYen1ukD2/view?usp=sharing)|Full Stack Development Track|**Completed**|
+| [New Horizons c#](https://drive.google.com/drive/folders/1O5hJH5ZXOzF1LDHDODY39bKeiXOJ5Ejc)|Microsoft visual C# core|**Completed**|
 
 ## Soft Skills
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+|[Namaa-life skills](https://drive.google.com/file/d/1iufd4GxmqRFCJUIfoABAZh2RoS6rOCD0/view?usp=sharing)|Life skills|**Completed**|
+|[Russian langauge]|Did b2 level exam|**Complteded**|
+|[English langauge]|SOON|***TODO***|
+|[German langauge]|SOON|***TODO***|
