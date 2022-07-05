@@ -5,115 +5,136 @@
 ## My data Science roadmap
 
 <p align="center"> 
-<img src="https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/b/d/bd0564b818cb41808ba50fb0e3437d0f6c790e6161d0b15eeabed30068e45073/data-science-roadmap-slide2.png" width="800">
+<img src="https://media.proglib.io/posts/2020/08/28/90db79d10aad3cf4486d8420c9cdc16b.png" width="800">
 </p>
 
 My humble data science roadmap.
 
-## Programming
-### Python
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [Data camp](https://drive.google.com/file/d/1zRgr_h2ZlE_u-QSVtPybspu2JlD-pzdM/view?usp=sharing) | Data science for everyone | ~~Completed~~|
-| [Code basics](https://codebasics.io/courses/data-science-full-course-for-beginners)|Data science for beignners|**on progress**|
+---
+# Programming
 
-
-### R
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [DataCamp](https://www.datacamp.com/tracks/r-programmer) | R Programmer | **Completed** |
-
-### Scala
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-
-
-## Machine Learning
-### Fundamentals
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [Datacamp](https://drive.google.com/file/d/1zRgr_h2ZlE_u-QSVtPybspu2JlD-pzdM/view?usp=sharing) | Machine learning for everyone | ~~Completed~~ |
-| [Datacamp](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python)|Machine Learning Scientist with Python
-|***TODO***|
-
-
-### Deep Learning
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-
-### MLOps
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-
-### Natural Language Processing
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-
-### Computer Vision
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-### Reinforcement Learning
-
-## Data Engineering
-### SQL
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-### Big Data
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-
-### Cloud
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-
-## Mathematics
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-
-# Visualization
-### D3
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-
-### Tableau
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-## Other programming langauges
+## Python
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-|[Coursera](https://drive.google.com/file/d/1-f6L78jb1Q8xMg-NzpNO9rT36GPx2BgA/view?usp=sharing) | OOP in JAVA | **Completed** |
-|[New Horizons](https://drive.google.com/drive/folders/1O5hJH5ZXOzF1LDHDODY39bKeiXOJ5Ejc)|Microsoft visiual C# core|**Completed**|
+| [DataCamp](https://www.datacamp.com/tracks/python-programmer) | Python Programmer | **In progress** |
+| [Free coding camp](https://www.freecodecamp.org/learn/scientific-computing-with-python)| Scientific computing with python|**In progress**|
+| [IBM](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM Data Science Professional Certificate | ***TODO*** |
 
-## Soft Skills
-#### Courses
+
+## R
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [DataCamp](https://www.datacamp.com/tracks/r-programmer) | R Programmer | ***TODO*** |
+| [Coursera](https://www.coursera.org/specializations/jhu-data-science) |Data Science specialization Johns Hopkins University | **In progress** |
+| [Google](https://grow.google/certificates/data-analytics/#?modal_active=none) |Google Data Analytics Certificate | ***TODO*** |
+
+
+## Scala
+### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
 
-## Certificates
 
+## Algorithms & Data Structures
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+
+
+---
+# Machine Learning Stuff
+
+## Fundamentals
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Free coding camp](https://www.freecodecamp.org/learn/machine-learning-with-python)|Machine learning with python|**In progress**|
+| [Coursera](https://www.coursera.org/specializations/machine-learning-introduction) | Machine Learning Specialization (Standford) | ***TODO*** |
+
+
+## Deep Learning
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [stepik](https://stepik.org/course/109539/syllabus) | Deep Learning Specialization | **In progress** |
+
+
+## MLOps
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+
+
+## Natural Language Processing
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+
+
+
+
+## Computer Vision
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+
+
+---
+# Reinforcement Learning
+
+## SQL
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+
+
+
+## Big Data
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+
+
+
+
+## Cloud
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+
+
+---
+# Mathematics
+
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+
+
+---
+# Visualization
+## D3
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+
+
+## Tableau
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+
+---
+# Other skills & certifications
+## General & Related stuff to programming
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Coursera](https://www.coursera.org/learn/ai-for-everyone) | AI For Everyone | **Completed** |
+
+## Soft Skills
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
