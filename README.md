@@ -17,19 +17,19 @@ My humble data science roadmap.
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [DataCamp](https://www.datacamp.com/tracks/python-programmer)| Python Programmer | **In progress** |
-| [Free coding camp](https://www.freecodecamp.org/learn/scientific-computing-with-python)| Scientific computing with python |**In progress**|
-| [IBM](https://www.coursera.org/professional-certificates/ibm-data-science)|IBM Data Science Professional Certificate | ***TODO*** |
-| [Code basics](https://codebasics.io/courses/data-science-full-course-for-beginners)|Data science for beigneers |**In progress**|
-| [Python projects](https://github.com/Strikoder/Python)|100 Days of code(python)| **In progress**|
+| [DataCamp](https://www.datacamp.com/tracks/python-programmer)|Python Programmer| **In progress** |
+| [Free coding camp](https://www.freecodecamp.org/learn/scientific-computing-with-python)|Scientific computing with python|**In progress**|
+| [IBM](https://www.coursera.org/professional-certificates/ibm-data-science)|IBM Data Science Professional Certificate|***TODO***|
+| [Code basics](https://codebasics.io/courses/data-science-full-course-for-beginners)|Data science for beigneers|**In progress**|
+| [Python projects](https://github.com/Strikoder/Python)|100 Days of code(python)|**In progress**|
 
 ## Data science with R
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [DataCamp](https://www.datacamp.com/tracks/r-programmer) | R Programmer | ***TODO*** |
-| [Coursera](https://www.coursera.org/specializations/jhu-data-science) |Data Science specialization Johns Hopkins University | **In progress** |
-| [Google](https://grow.google/certificates/data-analytics/#?modal_active=none) |Google Data Analytics Certificate | ***TODO*** |
+| [DataCamp](https://www.datacamp.com/tracks/r-programmer)|R Programmer|***TODO***|
+| [Coursera](https://www.coursera.org/specializations/jhu-data-science)|Data Science specialization Johns Hopkins University |**In progress**|
+| [Google](https://grow.google/certificates/data-analytics/#?modal_active=none)|Google Data Analytics Certificate |***TODO*** |
 
 
 ## Scala
@@ -52,14 +52,16 @@ My humble data science roadmap.
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Free coding camp](https://www.freecodecamp.org/learn/machine-learning-with-python)|Machine learning with python|**In progress**|
-| [Coursera](https://www.coursera.org/specializations/machine-learning-introduction) | Machine Learning Specialization (Standford) | ***TODO*** |
+| [Coursera](https://www.coursera.org/specializations/machine-learning-introduction)|Machine Learning Specialization (Standford)| ***TODO*** |
+| [Datacamp](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python)|Machine Learning Scientist with Python| ***TODO***|
+||
 
 
 ## Deep Learning
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [stepik](https://stepik.org/course/109539/syllabus) | Deep Learning Specialization | **In progress** |
+| [stepik](https://stepik.org/course/109539/syllabus)|Deep Learning Specialization |**In progress**|
 
 
 ## MLOps
@@ -138,7 +140,7 @@ My humble data science roadmap.
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/ai-for-everyone) | AI For Everyone | **Completed** |
+|[Coursera](https://www.coursera.org/learn/ai-for-everyone)|AI For Everyone |**Completed**|
 
 ## Soft Skills
 ### Courses
