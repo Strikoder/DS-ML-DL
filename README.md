@@ -46,9 +46,9 @@ My humble data science roadmap.
 
 
 ---
-# Machine Learning Stuff
+# AI related
 
-## Fundamentals
+## ML Fundamentals
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
@@ -90,6 +90,11 @@ My humble data science roadmap.
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+
+## Excel
+| URL | Title | Status |
+| :---: | --- | :---: |
+
 
 
 
