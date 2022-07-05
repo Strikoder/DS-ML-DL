@@ -22,6 +22,7 @@ My humble data science roadmap.
 | [IBM](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM Data Science Professional Certificate | ***TODO*** |
 | [Code basics](https://codebasics.io/courses/data-science-full-course-for-beginners)|Data science for beigneers|**In progress**|
 
+### [Projects](https://github.com/Strikoder/Python)
 
 ## R
 ### Courses
