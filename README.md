@@ -31,18 +31,6 @@ My humble data science roadmap.
 
 
 
-### Algorithms & Data Structures
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [GeekBrains](https://geekbrains.ru/courses/513) | Алгоритмы и структуры данных на Python. Интерактивный курс | **Completed** |
-
-#### Books
-| Title | Author | Status |
-| --- | :---: | :---: |
-| Грокаем алгоритмы | Адитья Бхаргава | **Completed** |
-
-
 ## Machine Learning
 ### Fundamentals
 #### Courses
@@ -88,7 +76,6 @@ My humble data science roadmap.
 | :---: | --- | :---: |
 
 
-
 ### Cloud
 #### Courses
 | URL | Title | Status |
@@ -117,10 +104,13 @@ My humble data science roadmap.
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://drive.google.com/file/d/1-f6L78jb1Q8xMg-NzpNO9rT36GPx2BgA/view?usp=sharing) | OOP in JAVA | **Completed** |
+|[Coursera](https://drive.google.com/file/d/1-f6L78jb1Q8xMg-NzpNO9rT36GPx2BgA/view?usp=sharing) | OOP in JAVA | **Completed** |
+|[New Horizons](https://drive.google.com/drive/folders/1O5hJH5ZXOzF1LDHDODY39bKeiXOJ5Ejc)|Microsoft visiual C# core|**Completed**|
 
 ## Soft Skills
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+
+## Certificates
 
