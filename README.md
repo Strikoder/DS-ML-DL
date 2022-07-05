@@ -13,7 +13,7 @@ My humble data science roadmap.
 ---
 # Programming
 
-## Python
+## Data science with Python
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
@@ -24,7 +24,7 @@ My humble data science roadmap.
 
 ### [Projects](https://github.com/Strikoder/Python)
 
-## R
+## Data science with R
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
