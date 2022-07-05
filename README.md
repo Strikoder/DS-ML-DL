@@ -15,8 +15,8 @@ My humble data science roadmap.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Data camp](https://drive.google.com/file/d/1zRgr_h2ZlE_u-QSVtPybspu2JlD-pzdM/view?usp=sharing) | Data science for everyone | **Completed** |
-| [Code basics](https://codebasics.io/courses/data-science-full-course-for-beginners)|Data science for beignners|*on progress*|
+| [Data camp](https://drive.google.com/file/d/1zRgr_h2ZlE_u-QSVtPybspu2JlD-pzdM/view?usp=sharing) | Data science for everyone | -Completed- |
+| [Code basics](https://codebasics.io/courses/data-science-full-course-for-beginners)|Data science for beignners|**on progress**|
 
 
 ### R
