@@ -133,6 +133,6 @@ My humble data science roadmap.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/ai-for-everyone) | AI For Everyone | **Completed** |
-| [Coursera](https://www.coursera.org/specializations/advanced-grammar-punctuation) | Learn English: Advanced Grammar and Punctuation Specialization | **Completed** |
-| [ЭргоСоло](https://solocorporate.com/study/rus) | СОЛО на клавиатуре (русский язык) | **Completed** |
+| [Coursera](https://drive.google.com/file/d/1-f6L78jb1Q8xMg-NzpNO9rT36GPx2BgA/view?usp=sharing) | OOP in JAVA | **Completed** |
+| [Data camp](https://drive.google.com/file/d/1zRgr_h2ZlE_u-QSVtPybspu2JlD-pzdM/view?usp=sharing) | Machine learning for everyone | **Completed** |
+| [Data camp](https://drive.google.com/file/d/1zRgr_h2ZlE_u-QSVtPybspu2JlD-pzdM/view?usp=sharing) | Machine learning for everyone | **Completed** |) | Data science for everyone | **Completed** |
