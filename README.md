@@ -5,7 +5,7 @@
 ## My data Science roadmap
 
 <p align="center"> 
-<img src="https://media.proglib.io/posts/2020/08/28/90db79d10aad3cf4486d8420c9cdc16b.png" width="800">
+<img src="https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/b/d/bd0564b818cb41808ba50fb0e3437d0f6c790e6161d0b15eeabed30068e45073/data-science-roadmap-slide2.png" width="800">
 </p>
 
 My humble data science roadmap.
