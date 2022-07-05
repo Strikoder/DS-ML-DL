@@ -10,129 +10,131 @@
 
 My humble data science roadmap.
 
-## Programming
-### Python
-#### Courses
+---
+# Programming
+
+## Python
+### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [DataCamp](https://www.datacamp.com/tracks/python-programmer) | Python Programmer | **In progress** |
+| [Free coding camp](https://www.freecodecamp.org/learn/scientific-computing-with-python)| Scientific computing with python|**In progress**|
+| [IBM](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM Data Science Professional Certificate | ***TODO*** |
 
 
-### R
-#### Courses
+## R
+### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [DataCamp](https://www.datacamp.com/tracks/r-programmer) | R Programmer | **Completed** |
-
-### Scala
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/progfun1) | Functional Programming Principles in Scala | TODO |
+| [DataCamp](https://www.datacamp.com/tracks/r-programmer) | R Programmer | ***TODO*** |
+| [Coursera](https://www.coursera.org/specializations/jhu-data-science) |Data Science specialization Johns Hopkins University | **In progress** |
+| [Google](https://grow.google/certificates/data-analytics/#?modal_active=none) |Google Data Analytics Certificate | ***TODO*** |
 
 
-### Algorithms & Data Structures
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [GeekBrains](https://geekbrains.ru/courses/513) | Алгоритмы и структуры данных на Python. Интерактивный курс | **Completed** |
-
-#### Books
-| Title | Author | Status |
-| --- | :---: | :---: |
-| Грокаем алгоритмы | Адитья Бхаргава | **Completed** |
-
-
-## Machine Learning
-### Fundamentals
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/machine-learning/) | Machine Learning | **Completed** |
-
-
-### Deep Learning
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/specializations/deep-learning) | Deep Learning Specialization | **Completed** |
-
-
-### MLOps
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Machine Learning Engineering for Production (MLOps) Specialization | **Completed** |
-
-
-### Natural Language Processing
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/language-processing) | Natural Language Processing | **Completed** |
-
-
-
-### Computer Vision
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | Generative Adversarial Networks (GANs) Specialization | **Completed** |
-### Reinforcement Learning
-
-## Data Engineering
-### SQL
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/sql-data-science) | Databases and SQL for Data Science with Python | **Completed** |
-
-
-### Big Data
-#### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [DataCamp](https://www.datacamp.com/tracks/data-engineer-with-python) | Data Engineer with Python | **Completed** |
-| NewProLab | Apache Spark для задач анализа данных | **Completed** |
-
-
-
-### Cloud
-#### Courses
+## Scala
+### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
 
-| [Coursera](https://www.coursera.org/specializations/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) | Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate | **Completed** |
 
-## Mathematics
-#### Courses
+## Algorithms & Data Structures
+### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/discrete-math-and-analyzing-social-graphs) | Discrete Math and Analyzing Social Graphs | **Completed** |
-| [Stepik](https://stepik.org/course/91/) | Ликбез по дискретной математике | *In Progress* |
 
 
+---
+# Machine Learning Stuff
+
+## Fundamentals
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Free coding camp](https://www.freecodecamp.org/learn/machine-learning-with-python)|Machine learning with python|**In progress**|
+| [Coursera](https://www.coursera.org/specializations/machine-learning-introduction) | Machine Learning Specialization (Standford) | ***TODO*** |
+
+
+## Deep Learning
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [stepik](https://stepik.org/course/109539/syllabus) | Deep Learning Specialization | **In progress** |
+
+
+## MLOps
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+
+
+## Natural Language Processing
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+
+
+
+
+## Computer Vision
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+
+
+---
+# Reinforcement Learning
+
+## SQL
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+
+
+
+## Big Data
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+
+
+
+
+## Cloud
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+
+
+---
+# Mathematics
+
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+
+
+---
 # Visualization
-### D3
-#### Courses
+## D3
+### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Udemy](https://www.udemy.com/course/d3jsbasics/) | D3.js Data Visualization Fundamentals - Hands On | **Completed** |
-#### Books
-| Title | Author | Status |
-| --- | :---: | :---: |
-| D3 for the Impatient | Philipp K. Janert | *In Progress* |
 
-### Tableau
-#### Courses
+
+## Tableau
+### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/specializations/data-visualization) | Data Visualization with Tableau Specialization | **Completed** |
 
-## Soft Skills
-#### Courses
+---
+# Other skills & certifications
+## General & Related stuff to programming
+### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Coursera](https://www.coursera.org/learn/ai-for-everyone) | AI For Everyone | **Completed** |
-| [Coursera](https://www.coursera.org/specializations/advanced-grammar-punctuation) | Learn English: Advanced Grammar and Punctuation Specialization | **Completed** |
-| [ЭргоСоло](https://solocorporate.com/study/rus) | СОЛО на клавиатуре (русский язык) | **Completed** |
+
+## Soft Skills
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
