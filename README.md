@@ -15,7 +15,7 @@ My humble data science roadmap.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [DataCamp](https://www.datacamp.com/tracks/python-programmer) | Python Programmer | **In progress** |
+| [Data camp](https://drive.google.com/file/d/1zRgr_h2ZlE_u-QSVtPybspu2JlD-pzdM/view?usp=sharing) | Data science for everyone | **Completed** |
 
 
 ### R
@@ -28,7 +28,7 @@ My humble data science roadmap.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/progfun1) | Functional Programming Principles in Scala | TODO |
+
 
 
 ### Algorithms & Data Structures
@@ -48,36 +48,32 @@ My humble data science roadmap.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/machine-learning/) | Machine Learning | **Completed** |
+| [Data camp](https://drive.google.com/file/d/1zRgr_h2ZlE_u-QSVtPybspu2JlD-pzdM/view?usp=sharing) | Machine learning for everyone | **Completed** |
 
 
 ### Deep Learning
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/specializations/deep-learning) | Deep Learning Specialization | **Completed** |
 
 
 ### MLOps
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) | Machine Learning Engineering for Production (MLOps) Specialization | **Completed** |
 
 
 ### Natural Language Processing
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/language-processing) | Natural Language Processing | **Completed** |
-
 
 
 ### Computer Vision
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/specializations/generative-adversarial-networks-gans) | Generative Adversarial Networks (GANs) Specialization | **Completed** |
+
 ### Reinforcement Learning
 
 ## Data Engineering
@@ -85,15 +81,11 @@ My humble data science roadmap.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/sql-data-science) | Databases and SQL for Data Science with Python | **Completed** |
-
 
 ### Big Data
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [DataCamp](https://www.datacamp.com/tracks/data-engineer-with-python) | Data Engineer with Python | **Completed** |
-| NewProLab | Apache Spark для задач анализа данных | **Completed** |
 
 
 
@@ -102,14 +94,11 @@ My humble data science roadmap.
 | URL | Title | Status |
 | :---: | --- | :---: |
 
-| [Coursera](https://www.coursera.org/specializations/preparing-for-google-cloud-machine-learning-engineer-professional-certificate) | Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate | **Completed** |
 
 ## Mathematics
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/learn/discrete-math-and-analyzing-social-graphs) | Discrete Math and Analyzing Social Graphs | **Completed** |
-| [Stepik](https://stepik.org/course/91/) | Ликбез по дискретной математике | *In Progress* |
 
 
 # Visualization
@@ -117,22 +106,21 @@ My humble data science roadmap.
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Udemy](https://www.udemy.com/course/d3jsbasics/) | D3.js Data Visualization Fundamentals - Hands On | **Completed** |
-#### Books
-| Title | Author | Status |
-| --- | :---: | :---: |
-| D3 for the Impatient | Philipp K. Janert | *In Progress* |
+
 
 ### Tableau
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/specializations/data-visualization) | Data Visualization with Tableau Specialization | **Completed** |
+
+## Other programming langauges
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [Coursera](https://drive.google.com/file/d/1-f6L78jb1Q8xMg-NzpNO9rT36GPx2BgA/view?usp=sharing) | OOP in JAVA | **Completed** |
 
 ## Soft Skills
 #### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://drive.google.com/file/d/1-f6L78jb1Q8xMg-NzpNO9rT36GPx2BgA/view?usp=sharing) | OOP in JAVA | **Completed** |
-| [Data camp](https://drive.google.com/file/d/1zRgr_h2ZlE_u-QSVtPybspu2JlD-pzdM/view?usp=sharing) | Machine learning for everyone | **Completed** |
-| [Data camp](https://drive.google.com/file/d/1zRgr_h2ZlE_u-QSVtPybspu2JlD-pzdM/view?usp=sharing) | Machine learning for everyone | **Completed** |) | Data science for everyone | **Completed** |
+
