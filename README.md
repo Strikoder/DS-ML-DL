@@ -135,7 +135,7 @@ My humble data science roadmap.
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [1MILLIONARABCODERSINITIATIVE](https://drive.google.com/file/d/1yi91vUhufCSHkWjDhrU0mu2jYen1ukD2/view?usp=sharing)|Full Stack Development Track|**Completed**|
+| [1 MILLION ARAB CODERS INITIATIVE](https://drive.google.com/file/d/1yi91vUhufCSHkWjDhrU0mu2jYen1ukD2/view?usp=sharing)|Full Stack Development Track|**Completed**|
 | [New Horizons c#](https://drive.google.com/drive/folders/1O5hJH5ZXOzF1LDHDODY39bKeiXOJ5Ejc)|Microsoft visual C# core|**Completed**|
 
 ## Soft Skills
