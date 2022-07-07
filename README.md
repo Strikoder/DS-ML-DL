@@ -44,7 +44,8 @@ My humble data science roadmap.
 | [Free coding camp](https://www.freecodecamp.org/learn/machine-learning-with-python)|Machine learning with python|**In progress**|
 | [Coursera](https://www.coursera.org/specializations/machine-learning-introduction)|Machine Learning Specialization (Standford)| ***TODO*** |
 | [Datacamp](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python)|Machine Learning Scientist with Python| ***TODO***|
-||
+|[Coursera](https://www.coursera.org/mastertrack/machine-learning-analytics-chicago)|ML for Analytics|***TODO***|
+
 
 
 ## Deep Learning
@@ -96,7 +97,6 @@ My humble data science roadmap.
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-
 
 ---
 # Visualization
