@@ -45,7 +45,7 @@ My humble data science roadmap.
 | [Coursera](https://www.coursera.org/specializations/machine-learning-introduction)|Machine Learning Specialization (Standford)| ***TODO*** |
 | [Datacamp](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python)|Machine Learning Scientist with Python| ***TODO***|
 | [Coursera](https://www.coursera.org/mastertrack/machine-learning-analytics-chicago)|ML for Analytics|***TODO***|
-| [Kaggle 30 days of ML](https://www.youtube.com/watch?v=_55G24aghPY&list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N)|a 30 days challenge of machine learning on Kaggle platform|***TODO***|
+| [Kaggle 30 days of ML](https://www.youtube.com/watch?v=_55G24aghPY&list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N)|30 days challenge of machine learning on Kaggle platform|***TODO***|
 
 
 
