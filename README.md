@@ -34,11 +34,6 @@ My humble data science roadmap.
 | [Google](https://grow.google/certificates/data-analytics/#?modal_active=none)|Google Data Analytics Certificate |***TODO*** |
 
 
-## Scala
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
 ---
 # AI related
 
@@ -59,19 +54,10 @@ My humble data science roadmap.
 | [stepik](https://stepik.org/course/109539/syllabus)|Deep Learning Specialization in Russian |**In progress**|
 
 
-## MLOps
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-
 ## Natural Language Processing
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-
-
-
 
 ## Computer Vision
 ### Courses
@@ -92,14 +78,10 @@ My humble data science roadmap.
 | :---: | --- | :---: |
 
 
-
-
 ## Big Data
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-
-
 
 
 ## Cloud
@@ -118,11 +100,6 @@ My humble data science roadmap.
 
 ---
 # Visualization
-## D3
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
 
 ## Tableau
 ### Courses
