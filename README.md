@@ -143,6 +143,6 @@ My humble data science roadmap.
 | URL | Title | Status |
 | :---: | --- | :---: |
 |[Namaa-life skills](https://drive.google.com/file/d/1iufd4GxmqRFCJUIfoABAZh2RoS6rOCD0/view?usp=sharing)|Life skills|**Completed**|
-|[Russian langauge]|Did b2 level exam|**Complteded**|
+|[Russian langauge]|B2|**Complteded**|
 |[English langauge]|SOON|***TODO***|
 |[German langauge]|SOON|***TODO***|
