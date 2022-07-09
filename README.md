@@ -19,18 +19,17 @@ My humble data science roadmap.
 | :---: | --- | :---: |
 | [DataCamp](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6)|Data Scientist with Python| **In progress** |
 | [Free coding camp](https://www.freecodecamp.org/learn/scientific-computing-with-python)|Scientific computing with python|**In progress**|
-| [Code basics](https://codebasics.io/courses/data-science-full-course-for-beginners)|Data science for beigneers|**In progress**|
 | [IBM](https://www.coursera.org/professional-certificates/ibm-data-science)|IBM Data Science Professional Certificate|***TODO***|
+| [Code basics](https://codebasics.io/courses/data-science-full-course-for-beginners)|Data science for beigneers|**In progress**|
 
 ## [Python projects](https://github.com/Strikoder/Python)
-
 
 ## Data science with R
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [DataCamp](https://www.datacamp.com/tracks/r-programmer)|R Programmer|***TODO***|
 | [Coursera](https://www.coursera.org/specializations/jhu-data-science)|Data Science specialization Johns Hopkins University |**In progress**|
+| [DataCamp](https://www.datacamp.com/tracks/r-programmer)|R Programmer|***TODO***|
 | [Google](https://grow.google/certificates/data-analytics/#?modal_active=none)|Google Data Analytics Certificate |***TODO*** |
 
 
