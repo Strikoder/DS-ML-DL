@@ -113,8 +113,10 @@ My humble data science roadmap.
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
+| [Coursera](https://drive.google.com/file/d/1-f6L78jb1Q8xMg-NzpNO9rT36GPx2BgA/view?usp=sharing)|OOP in Java(UC San Diego)|**Completed**|
 | [1 MILLION ARAB CODERS INITIATIVE](https://drive.google.com/file/d/1yi91vUhufCSHkWjDhrU0mu2jYen1ukD2/view?usp=sharing)|Full Stack Development Track|**Completed**|
-| [New Horizons c#](https://drive.google.com/drive/folders/1O5hJH5ZXOzF1LDHDODY39bKeiXOJ5Ejc)|Microsoft visual C# core|**Completed**|
+| [New Horizons c#](https://drive.google.com/file/d/1XDgIyO4yGhWI8SKDDVKaEhUGsDPIM4RM/view?usp=sharing)|Microsoft visual C# core|**Completed**|
+
 
 ## Soft Skills
 ### Courses
