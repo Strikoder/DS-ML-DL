@@ -28,9 +28,8 @@ My humble data science roadmap.
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Coursera](https://www.coursera.org/specializations/jhu-data-science)|Data Science specialization Johns Hopkins University |***TODO***|
-| [DataCamp](https://www.datacamp.com/tracks/r-programmer)|R Programmer|***TODO***|
-| [Google](https://grow.google/certificates/data-analytics/#?modal_active=none)|Google Data Analytics Certificate |***TODO*** |
+[Standford]https://www.edx.org/course/statistical-learning|Statistical Learning|*In progress*|
+|[Google](https://grow.google/certificates/data-analytics/#?modal_active=none)|Google Data Analytics Certificate |***TODO*** |
 
 
 ---
