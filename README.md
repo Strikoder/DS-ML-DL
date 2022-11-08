@@ -90,12 +90,6 @@ My humble data science roadmap.
 | :---: | --- | :---: |
 
 
----
-# Mathematics
-
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
 
 ---
 # Visualization
@@ -122,5 +116,5 @@ My humble data science roadmap.
 | :---: | --- | :---: |
 |[Namaa-life skills](https://drive.google.com/file/d/1iufd4GxmqRFCJUIfoABAZh2RoS6rOCD0/view?usp=sharing)|Life skills|**Completed**|
 |[Russian langauge]|B2|**Complteded**|
-|[English langauge]|SOON|***TODO***|
-|[German langauge]|SOON|***TODO***|
+|[English langauge]|IELTS|***TODO***|
+|[German langauge]|Goethe|***TODO***|
