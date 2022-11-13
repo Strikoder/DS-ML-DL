@@ -51,7 +51,7 @@ My humble data science roadmap.
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [stepik](https://stepik.org/course/109539/syllabus)|Deep Learning Specialization in Russian |***TODO***|
+| [stepik](https://stepik.org/course/109539/syllabus)|Deep Learning Specialization in Russian |**In progress**|
 
 
 ## Natural Language Processing
