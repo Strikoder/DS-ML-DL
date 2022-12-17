@@ -1,4 +1,4 @@
-# Welcome to my data science repo, make yourself at home ^^
+# Welcome to my data science, Machine learning & Deep learning repo, make yourself at home ^^
 
 ## You can check [my projects](https://github.com/Strikoder/Data-Science/tree/main/Projects)
 ## OR
