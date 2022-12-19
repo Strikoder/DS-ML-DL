@@ -2,7 +2,7 @@
 
 ## You can check [my projects](https://github.com/Strikoder/Data-Science/tree/main/Projects)
 ## OR
-## My data Science roadmap
+## My rough roadmap
 
 <p align="center"> 
 <img src="https://media.proglib.io/posts/2020/08/28/90db79d10aad3cf4486d8420c9cdc16b.png" width="800">
@@ -117,3 +117,9 @@ My humble data science roadmap.
 |[Russian langauge]|B2|**Complteded**|
 |[English langauge]|IELTS|***TODO***|
 |[German langauge]|Goethe|***TODO***|
+
+## Youtube playlists courses
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+|[CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)|Crash Course Computer Science|**Completed**|
