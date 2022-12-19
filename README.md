@@ -19,7 +19,6 @@ My humble data science roadmap.
 | :---: | --- | :---: |
 | [DataCamp](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6)|Data Scientist with Python| **In progress** |
 | [Free coding camp](https://www.freecodecamp.org/learn/scientific-computing-with-python)|Scientific computing with python|**In progress**|
-| [IBM](https://www.coursera.org/professional-certificates/ibm-data-science)|IBM Data Science Professional Certificate|***TODO***|
 | [Code basics](https://codebasics.io/courses/data-science-full-course-for-beginners)|Data science for beigneers|**In progress**|
 
 ## [Python projects](https://github.com/Strikoder/Python)
