@@ -123,3 +123,5 @@ My humble data science roadmap.
 | URL | Title | Status |
 | :---: | --- | :---: |
 |[CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)|Crash Course Computer Science|**Completed**|
+|[Ahmed Yousry](https://www.youtube.com/playlist?list=PLPBnj6azlABbaGuOzR40nvlzPWAKMv_qA)|Machine Learning Algorithms بالعربى|**Completed**|
+
