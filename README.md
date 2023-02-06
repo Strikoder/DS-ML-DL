@@ -23,13 +23,6 @@ My humble data science roadmap.
 
 ## [Python projects](https://github.com/Strikoder/Python)
 
-## Data science with R
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-[Standford](https://www.edx.org/course/statistical-learning)|Statistical Learning|*In progress*|
-|[Google](https://grow.google/certificates/data-analytics/#?modal_active=none)|Google Data Analytics Certificate |***TODO***|
-
 
 ---
 # AI related
