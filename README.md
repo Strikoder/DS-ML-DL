@@ -28,7 +28,7 @@ My humble data science roadmap.
 | URL | Title | Status |
 | :---: | --- | :---: |
 [Standford](https://www.edx.org/course/statistical-learning)|Statistical Learning|*In progress*|
-|[Google](https://grow.google/certificates/data-analytics/#?modal_active=none)|Google Data Analytics Certificate |***TODO*** |
+|[Google](https://grow.google/certificates/data-analytics/#?modal_active=none)|Google Data Analytics Certificate |***TODO***|
 
 
 ---
@@ -50,7 +50,9 @@ My humble data science roadmap.
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [stepik](https://stepik.org/course/109539/syllabus)|Deep Learning Specialization in Russian |**Completed**|
+| [Stepik](https://stepik.org/course/109539/syllabus)|Deep Learning Specialization in Russian |**Completed**|
+| [Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)|Tensorflow for deep learning|***TODO***|
+
 
 
 ## Natural Language Processing
