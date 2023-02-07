@@ -118,7 +118,7 @@ My humble data science roadmap.
 | URL | Title | Status |
 | :---: | --- | :---: |
 |[CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)|Crash Course Computer Science|**Completed**|
-|[Ahmed Yousry](https://www.youtube.com/@HeshamAsem/playlists)|18 Playlistes regarding ML & DL concepts|***TODO***|
+|[Hesham Asem](https://www.youtube.com/@HeshamAsem/playlists)|18 Playlistes regarding ML & DL concepts|***TODO***|
 |[Ahmed Yousry](https://www.youtube.com/playlist?list=PLPBnj6azlABbaGuOzR40nvlzPWAKMv_qA)|Machine Learning Algorithms بالعربى|**Completed**|
 |[Ahmed Yousry](https://www.youtube.com/playlist?list=PLPBnj6azlABatXqkOgE4-Suu2ucfax42F)|AI search Algos in py بالعربى|***TODO***|
 |[Ahmed Yousry](https://www.youtube.com/playlist?list=PLPBnj6azlABZt1fD0B64lSkG1QktaF6kj)|Artificial Neural Networks|***TODO***|
