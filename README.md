@@ -33,7 +33,7 @@ My humble data science roadmap.
 | :---: | --- | :---: |
 | [Free coding camp](https://www.freecodecamp.org/learn/machine-learning-with-python)|Machine learning with python|**In progress**|
 | [Coursera](https://www.coursera.org/specializations/machine-learning-introduction)|Machine Learning Specialization (Deep learning.ai)| **In progress** |
-| [Datacamp](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python)|Machine Learning Scientist with Python| ***TODO***|
+| [Datacamp](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python)|Machine Learning Scientist with Python| **In progress** |
 | [Coursera](https://www.coursera.org/mastertrack/machine-learning-analytics-chicago)|ML for Analytics|***TODO***|
 | [Kaggle 30 days of ML](https://www.youtube.com/watch?v=_55G24aghPY&list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N)|30 days challenge of machine learning on Kaggle platform|***TODO***|
 
@@ -45,6 +45,7 @@ My humble data science roadmap.
 | :---: | --- | :---: |
 | [Stepik](https://stepik.org/course/109539/syllabus)|Deep Learning Specialization in Russian |**Completed**|
 | [Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)|Tensorflow for deep learning|***TODO***|
+| [Datacamp](https://campus.datacamp.com/courses/introduction-to-deep-learning-in-python/basics-of-deep-learning-and-neural-networks?ex=1)|Deep learning| ***TODO***|
 
 
 
