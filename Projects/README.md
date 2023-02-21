@@ -1,10 +1,6 @@
-# Data science Projects
-
 <p align="center"> 
-<img src="https://analyticstraininghub.com/wp-content/uploads/2021/01/Featured-Images-8.png" width="600">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fhow-to-become-a-machine-learning-engineer%2F&psig=AOvVaw34IdQQWB2h4QcmNCG_MTDR&ust=1677093389383000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOD1_u-pp_0CFQAAAAAdAAAAABAJ" width="600">
 </p>
-
-My notebooks to [Datacamp](https://www.datacamp.com/profile/strikoder) projects.
 
 # Projects (Sorted by favorite)
 
@@ -20,3 +16,5 @@ My notebooks to [Datacamp](https://www.datacamp.com/profile/strikoder) projects.
 | [`Scala's report - Datacamp`](https://github.com/Strikoder/Data-Science/blob/main/Projects/Scala%20github%20reports%20-%20Datacamp/notebook.ipynb) |analayzing the data, answering the questions & reporting the result. |
 | [`Netflix - Datacamp`](https://github.com/Strikoder/Data-Science/blob/main/Projects/Netflix%20-%20Datacamp/notebook.ipynb) |Visual and analytical inspection of netflix's data. |
 | [`Android - Datacamp`](https://github.com/Strikoder/DS-ML-DL/blob/main/Projects/(DCamp)The%20Android%20App%20Market%20on%20Google%20Play/notebook.ipynb) |Visual and analytical inspection of The Android App Market on Google Play. |
+
+My notebooks to [Datacamp](https://www.datacamp.com/profile/strikoder) projects.
