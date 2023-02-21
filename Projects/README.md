@@ -6,6 +6,8 @@
 
 My notebooks to [Datacamp](https://www.datacamp.com/profile/strikoder) projects.
 
+#Projects (Sorted by favorite)
+
 ## ML
 | Project | Description |
 | --- | --- |
