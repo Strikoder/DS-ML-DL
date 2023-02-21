@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fhow-to-become-a-machine-learning-engineer%2F&psig=AOvVaw34IdQQWB2h4QcmNCG_MTDR&ust=1677093389383000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOD1_u-pp_0CFQAAAAAdAAAAABAJ" width="600">
+<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/12/AR@2x-768x233.png" width="600">
 </p>
 
 # Projects (Sorted by favorite)
