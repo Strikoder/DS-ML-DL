@@ -17,4 +17,4 @@
 | [`Netflix - Datacamp`](https://github.com/Strikoder/Data-Science/blob/main/Projects/Netflix%20-%20Datacamp/notebook.ipynb) |Visual and analytical inspection of netflix's data. |
 | [`Android - Datacamp`](https://github.com/Strikoder/DS-ML-DL/blob/main/Projects/(DCamp)The%20Android%20App%20Market%20on%20Google%20Play/notebook.ipynb) |Visual and analytical inspection of The Android App Market on Google Play. |
 
-My notebooks to [Datacamp](https://www.datacamp.com/profile/strikoder) projects.
+[Kaggle notebooks](https://www.kaggle.com/strikoder/code)
