@@ -8,7 +8,7 @@
 | Project | Description |
 | --- | --- |
 
-| [`Bengaluru House price data- End to end project`](https://github.com/Strikoder/DS-ML-DL/tree/main/Projects/Machine%20%26%20Deep%20learning%20projects/(Kaggle)%20Bengaluru%20House%20price%20data) |Buidling a model then deploying it to predict the house prices in Bengaluru - India. |
+| [`Bengaluru House price data - End to end project`](https://github.com/Strikoder/DS-ML-DL/tree/main/Projects/Machine%20%26%20Deep%20learning%20projects/(Kaggle)%20Bengaluru%20House%20price%20data) |Building a model then deploying it to predict the house prices in Bengaluru - India. |
 
 | [`House Prices - Kaggle`](https://github.com/Strikoder/DS-ML-DL/blob/main/Projects/(Kaggle)%20House%20Prices%20-%20Advanced%20Regression%20Techniques/%23Improved_Home_prices.ipynb) |Solving real-modern world problems by machine learning and deep learning models. |
 
