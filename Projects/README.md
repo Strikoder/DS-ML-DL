@@ -17,6 +17,10 @@
 
 | [`Predicting Credit Card Approvals - Datacamp`](https://github.com/Strikoder/DS-ML-DL/blob/main/Projects/Machine%20%26%20Deep%20learning%20projects/(DCamp)Predicting%20Credit%20Card%20Approvals/notebook.ipynb) |Analyzing and predicting credit card data. |
 
+| Bengaluru House price data - End to end project | Building a model then deploying it to predict the house prices in Bengaluru - India. |
+| House Prices - Kaggle | Solving real-modern world problems by machine learning and deep learning models. |
+| User churn prediction - Kaggle | Solving and analyzing User churn data by machine learning models. |
+| Predicting Credit Card Approvals - Datacamp | Analyzing and predicting credit card data. |
 
 ## Solid Data Science
 | Project | Description |
