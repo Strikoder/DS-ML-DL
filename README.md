@@ -127,3 +127,5 @@ My humble data science roadmap.
 |[Aladdin Persson](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)|PyTorch Tutorials|***TODO***|
 |[Jeremy Howard](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)|Practical Deep Learning for Coders 2022|***TODO***|
 |[Cornell Tech CS 5787](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)|Applied Machine Learning|***TODO***|
+|[Alex the analyst](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)|Data Analyst Bootcamp|***TODO***|
+
