@@ -7,10 +7,10 @@
 <p align="center"> 
 <img src="https://media.proglib.io/posts/2020/08/28/90db79d10aad3cf4486d8420c9cdc16b.png" width="800">
 </p>
-
-My humble roadmap.
-
 ---
+### My humble roadmap.
+
+
 # Programming
 
 ## Data science with Python
