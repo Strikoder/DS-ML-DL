@@ -1,16 +1,17 @@
 # Welcome to my data science, Machine learning & Deep learning repo, make yourself at home ^^
 
-## You can check [my projects](https://github.com/Strikoder/Data-Science/tree/main/Projects)
+## You can either take a look at [my all projects](https://github.com/Strikoder/Data-Science/tree/main/Projects)
 ## OR
-## My rough roadmap
+## Visit [my Website](https://strikoder.github.io) to check my best projects
 
 <p align="center"> 
 <img src="https://media.proglib.io/posts/2020/08/28/90db79d10aad3cf4486d8420c9cdc16b.png" width="800">
 </p>
 
-My humble data science roadmap.
-
 ---
+# My humble roadmap.
+
+
 # Programming
 
 ## Data science with Python
