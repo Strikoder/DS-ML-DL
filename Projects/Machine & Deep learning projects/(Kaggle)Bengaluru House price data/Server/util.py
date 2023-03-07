@@ -3,10 +3,11 @@ import pickle
 import numpy as np
 import sklearn
 
-
 __locations = None
 __data_columns = None
 __model = None
+
+
 
 
 def get_estimated_price(location, sqft, bhk, bath):
@@ -21,7 +22,6 @@ def get_estimated_price(location, sqft, bhk, bath):
     x[2] = bhk
     if loc_index >= 0:
         x[loc_index] = 1
-
 
     return round(__model.predict([x])[0], 2)
 
@@ -42,8 +42,12 @@ def load_saved_artifacts():
         __model = pickle.load(f)
     print("loading saved artifacts...done")
 
+def get_location_names():
+    return __locations
+
+def get_data_columns():
+    return __data_columns
 
 if __name__ == '__main__':
     load_saved_artifacts()
     print(get_location_names())
-    print(get_estimated_price('1st Phase JP Nagar', 1000, 3, 3))
