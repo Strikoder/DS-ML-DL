@@ -22,7 +22,7 @@
 | [Free coding camp](https://www.freecodecamp.org/learn/scientific-computing-with-python)|Scientific computing with python|**In progress**|
 | [Code basics](https://codebasics.io/courses/data-science-full-course-for-beginners)|Data science for beigneers|**Completed**|
 
-## [Python projects](https://github.com/Strikoder/Python)
+## [My projects](https://github.com/Strikoder/DS-ML-DL/tree/main/Projects)
 
 ## ML Fundamentals
 ### Courses
