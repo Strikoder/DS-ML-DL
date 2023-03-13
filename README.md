@@ -11,8 +11,8 @@
 ---
 # My humble roadmap.
 
-
-# Programming
+---
+# AI related
 
 ## Data science with Python
 ### Courses
@@ -20,22 +20,17 @@
 | :---: | --- | :---: |
 | [DataCamp](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6)|Data Scientist with Python| **In progress** |
 | [Free coding camp](https://www.freecodecamp.org/learn/scientific-computing-with-python)|Scientific computing with python|**In progress**|
-| [Code basics](https://codebasics.io/courses/data-science-full-course-for-beginners)|Data science for beigneers|**In progress**|
+| [Code basics](https://codebasics.io/courses/data-science-full-course-for-beginners)|Data science for beigneers|**Completed**|
 
 ## [Python projects](https://github.com/Strikoder/Python)
-
-
----
-# AI related
 
 ## ML Fundamentals
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Free coding camp](https://www.freecodecamp.org/learn/machine-learning-with-python)|Machine learning with python|**In progress**|
-| [Coursera](https://www.coursera.org/specializations/machine-learning-introduction)|Machine Learning Specialization (Deep learning.ai)| **In progress** |
+| [Coursera](https://www.coursera.org/account/accomplishments/specialization/466J7ZTQEG6T)|Machine Learning Specialization (Deep learning.ai)| **Completed** |
 | [Datacamp](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python)|Machine Learning Scientist with Python| **In progress** |
-| [Coursera](https://www.coursera.org/mastertrack/machine-learning-analytics-chicago)|ML for Analytics|***TODO***|
 | [Kaggle 30 days of ML](https://www.youtube.com/watch?v=_55G24aghPY&list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N)|30 days challenge of machine learning on Kaggle platform|***TODO***|
 
 
@@ -45,9 +40,9 @@
 | URL | Title | Status |
 | :---: | --- | :---: |
 | [Stepik](https://stepik.org/course/109539/syllabus)|Deep Learning Specialization in Russian |**Completed**|
-| [Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)|Tensorflow for deep learning|***TODO***|
+| [Coursera](https://www.coursera.org/specializations/deep-learning)|Machine Learning Specialization (Deep learning.ai)| **In progress** |
 | [Datacamp](https://campus.datacamp.com/courses/introduction-to-deep-learning-in-python/basics-of-deep-learning-and-neural-networks?ex=1)|Deep learning| ***TODO***|
-
+| [Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)|Tensorflow for deep learning|***TODO***|
 
 
 ## Natural Language Processing
@@ -62,14 +57,10 @@
 
 
 ---
-# Reinforcement Learning
+# Additional technologies
 
 ## SQL
 ### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-## Excel
 | URL | Title | Status |
 | :---: | --- | :---: |
 
@@ -79,16 +70,6 @@
 | URL | Title | Status |
 | :---: | --- | :---: |
 
-
-## Cloud
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-
-
----
-# Visualization
 
 ## Tableau
 ### Courses
