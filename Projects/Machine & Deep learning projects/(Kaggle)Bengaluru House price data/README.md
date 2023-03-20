@@ -22,7 +22,7 @@ The project has the following folder structure:
 * Numpy and Pandas for data cleaning
 
 ## Website Interface
-![Website](readmephotos\UI.JPG)
+![Website](https://raw.githubusercontent.com/Strikoder/DS-ML-DL/main/Projects/Machine%20%26%20Deep%20learning%20projects/(Kaggle)Bengaluru%20House%20price%20data/readmephotos/UI.JPG)
 
 # Conclusion
 This project demonstrates the process of building a machine learning application to solve a real-world problem. The project covers various data science concepts, such as data cleaning, feature engineering, model building, hyperparameter tuning, and deployment. The final application allows users to predict the prices of houses in Bangalore by inputting relevant features, such as the home's square footage and number of bedrooms.
