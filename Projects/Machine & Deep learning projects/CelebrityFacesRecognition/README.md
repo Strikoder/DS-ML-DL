@@ -3,6 +3,14 @@
 
 This project is a web application that allows users to upload images and get predictions on the celebrity faces present in the image. The application uses various machine learning models to classify images of celebrities, achieving an accuracy of around 80%.
 
+## Table of Contents
+* [Dataset](#Dataset)
+* [Folder Structure](#Folder Structure)
+* [Technologies](#Technologies Used)
+* [Website Interface](#Website Interface)
+* [Improved Results](#Improved Results)
+* [Conclusion](#Conclusion)
+
 ## Dataset
 The project used two celebrities datasets to train the models:
 
