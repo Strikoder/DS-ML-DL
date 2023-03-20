@@ -42,7 +42,7 @@ The website has a simple and intuitive interface that allows users to upload ima
 
 
 ### Imporved interface:
-![Website_new](readmephotos/celebritiesclassifier.JPG)
+![Website_new](readmephotos/celebritiesclassifier.jpg)
 
 ## Improved Results
 Some imporovments were made, for instance: the "if_2_eyes" function to return all the faces in the picture. A slight imporvment to the UI as well. In addition to that, several ML models haven been used including catboost.
