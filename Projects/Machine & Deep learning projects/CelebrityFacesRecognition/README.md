@@ -5,10 +5,10 @@ This project is a web application that allows users to upload images and get pre
 
 ## Table of Contents
 * [Dataset](#Dataset)
-* [Folder Structure](#Folder_Structure)
-* [Technologies](#Technologies_Used)
-* [Website Interface](#Website_Interface)
-* [Improved Results](#Improved_Results)
+* [Folder Structure](#FolderStructure)
+* [Technologies](#TechnologiesUsed)
+* [Website Interface](#WebsiteInterface)
+* [Improved Results](#ImprovedResults)
 * [Conclusion](#Conclusion)
 
 ## Dataset
