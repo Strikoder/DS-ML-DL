@@ -1,5 +1,10 @@
 # Real Estate Price Prediction
 This data science project series aims to build a real estate price prediction website, using the Bangalore home prices dataset from [Kaggle.com](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data).
+## Table of Contents
+* [Folder Structure](#Folder-Structure)
+* [Technologies](#Technologies-Used)
+* [Website Interface](#Website-Interface)
+* [Conclusion](#Conclusion)
 
 ## Folder Structure
 The project has the following folder structure:
