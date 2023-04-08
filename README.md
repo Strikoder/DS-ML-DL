@@ -20,7 +20,7 @@
 | :---: | --- | :---: |
 | [DataCamp](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6)|Data Scientist with Python| **In progress** |
 | [Free coding camp](https://www.freecodecamp.org/learn/scientific-computing-with-python)|Scientific computing with python|**In progress**|
-| [Code basics](https://codebasics.io/courses/data-science-full-course-for-beginners)|Data science for beigneers|**Completed**|
+| [Code basics](https://codebasics.io/courses/data-science-full-course-for-beginners)|Data science for beginners|**Completed**|
 
 ## [My projects](https://github.com/Strikoder/DS-ML-DL/tree/main/Projects)
 
