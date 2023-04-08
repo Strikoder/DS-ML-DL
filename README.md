@@ -45,37 +45,6 @@
 | [Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)|Tensorflow for deep learning|***TODO***|
 
 
-## Natural Language Processing
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-## Computer Vision
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-
----
-# Additional technologies
-
-## SQL
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-
-## Big Data
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-
-## Tableau
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
 ---
 # Other skills & certifications
 ## General & Related stuff to programming
