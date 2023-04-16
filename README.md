@@ -20,7 +20,7 @@
 | :---: | --- | :---: |
 | [DataCamp](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6)|Data Scientist with Python| **In progress** |
 | [Free coding camp](https://www.freecodecamp.org/learn/scientific-computing-with-python)|Scientific computing with python|**In progress**|
-| [Code basics](https://codebasics.io/courses/data-science-full-course-for-beginners)|Data science for beigneers|**Completed**|
+| [Code basics](https://codebasics.io/courses/data-science-full-course-for-beginners)|Data science for beginners|**Completed**|
 
 ## [My projects](https://github.com/Strikoder/DS-ML-DL/tree/main/Projects)
 
@@ -44,37 +44,6 @@
 | [Datacamp](https://campus.datacamp.com/courses/introduction-to-deep-learning-in-python/basics-of-deep-learning-and-neural-networks?ex=1)|Deep learning| ***TODO***|
 | [Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)|Tensorflow for deep learning|***TODO***|
 
-
-## Natural Language Processing
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-## Computer Vision
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-
----
-# Additional technologies
-
-## SQL
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-
-## Big Data
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-
-
-## Tableau
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
 
 ---
 # Other skills & certifications
@@ -103,6 +72,7 @@
 |[CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)|Crash Course Computer Science|**Completed**|
 |[Hesham Asem](https://www.youtube.com/@HeshamAsem/playlists)|18 Playlistes regarding ML & DL concepts|***TODO***|
 |[Ahmed Yousry](https://www.youtube.com/playlist?list=PLPBnj6azlABbaGuOzR40nvlzPWAKMv_qA)|Machine Learning Algorithms بالعربى|**Completed**|
+|[buildwithpython](https://www.youtube.com/playlist?list=PLhTjy8cBISEoOtB5_nwykvB9wfEDscuEo)|Sentiment Analysis with/without NLTK Python|**Completed**|
 |[CodeBasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)|NLP|**In progress**|
 |[Ahmed Yousry](https://www.youtube.com/playlist?list=PLPBnj6azlABatXqkOgE4-Suu2ucfax42F)|AI search Algos in py بالعربى|***TODO***|
 |[Ahmed Yousry](https://www.youtube.com/playlist?list=PLPBnj6azlABZt1fD0B64lSkG1QktaF6kj)|Artificial Neural Networks|***TODO***|
