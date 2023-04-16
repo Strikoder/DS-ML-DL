@@ -25,6 +25,6 @@ The website has a simple and intuitive interface that allows users to type texts
 
 # Conclusion
 This project successfully classified texts with an accuracy of around 97%. The use of machine learning models and NLTK for data cleaning and preparation allowed for effective text classification. The user interface also provided a seamless experience for users to type and classify texts.
-To launch the project, navigate to the server folder and type streamlit app.py in the command prompt or terminal.
+To launch the project, navigate to the 'server' folder and type 'streamlit app.py' in the command prompt or terminal.
 
 
