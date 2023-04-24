@@ -73,7 +73,7 @@
 |[Hesham Asem](https://www.youtube.com/@HeshamAsem/playlists)|18 Playlistes regarding ML & DL concepts|***TODO***|
 |[Ahmed Yousry](https://www.youtube.com/playlist?list=PLPBnj6azlABbaGuOzR40nvlzPWAKMv_qA)|Machine Learning Algorithms بالعربى|**Completed**|
 |[buildwithpython](https://www.youtube.com/playlist?list=PLhTjy8cBISEoOtB5_nwykvB9wfEDscuEo)|Sentiment Analysis with/without NLTK Python|**Completed**|
-|[CodeBasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)|NLP|**In progress**|
+|[CodeBasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)|NLP|**Completed**|
 |[Ahmed Yousry](https://www.youtube.com/playlist?list=PLPBnj6azlABatXqkOgE4-Suu2ucfax42F)|AI search Algos in py بالعربى|***TODO***|
 |[Ahmed Yousry](https://www.youtube.com/playlist?list=PLPBnj6azlABZt1fD0B64lSkG1QktaF6kj)|Artificial Neural Networks|***TODO***|
 |[Ahmed Yousry](https://www.youtube.com/playlist?list=PLPBnj6azlABaYCtajh-TOpZ4UKcvWYQCj)|Deep Neural Network using Keras|***TODO***|
