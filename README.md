@@ -44,6 +44,12 @@
 | [Datacamp](https://campus.datacamp.com/courses/introduction-to-deep-learning-in-python/basics-of-deep-learning-and-neural-networks?ex=1)|Deep learning| ***TODO***|
 | [Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)|Tensorflow for deep learning|***TODO***|
 
+## Prompt Engineering
+### Courses
+| URL | Title | Status |
+| :---: | --- | :---: |
+| [deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)|Chat gpt prompt engineering for developers|**Completed**|
+
 
 ---
 # Other skills & certifications
