@@ -4,6 +4,7 @@
 | Project | Description |
 | --- | --- |
 | [`SMS spam Classifier`](https://github.com/Strikoder/SMS-Spam-Filter) |Analyzing and predicting spam texts. |
+| [`Film recommendation system`](https://github.com/Strikoder/FilmRecommender) |Recommendaiton system based on content/ collaborating.|
 | [`CelebrityFacesClassification`](https://github.com/Strikoder/celeb-face-recognition) |Utilizing openCV to classifiy celebrites and they deploying the project |
 | [`Bengaluru House price data - End to end project`](https://github.com/Strikoder/DS-ML-DL/tree/main/Projects/Machine%20%26%20Deep%20learning%20projects/(Kaggle)%20Bengaluru%20House%20price%20data) |Building a model then deploying it to predict the house prices in Bengaluru - India. |
 | [`House Prices - Kaggle`](https://github.com/Strikoder/DS-ML-DL/blob/main/Projects/(Kaggle)%20House%20Prices%20-%20Advanced%20Regression%20Techniques/%23Improved_Home_prices.ipynb) |Solving real-modern world problems by machine learning and deep learning models. |
