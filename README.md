@@ -18,9 +18,10 @@
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [DataCamp](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6)|Data Scientist with Python| **Completed** |
-| [Free coding camp](https://www.freecodecamp.org/learn/scientific-computing-with-python)|Scientific computing with python|**In progress**|
+| [DataCamp](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python)|[Data Scientist with Python](https://drive.google.com/file/d/17sGtMPGt5xCbbeNt0AqMVM-W9XnIO452/view?usp=sharing)| **Completed** |
 | [Code basics](https://codebasics.io/courses/data-science-full-course-for-beginners)|Data science for beginners|**Completed**|
+| [Free coding camp](https://www.freecodecamp.org/learn/scientific-computing-with-python)|Scientific computing with python|**In progress**|
+
 
 ## [My projects](https://github.com/Strikoder/DS-ML-DL/tree/main/Projects)
 
@@ -40,7 +41,7 @@
 ### Courses
 | URL | Title | Status |
 | :---: | --- | :---: |
-| [Stepik](https://stepik.org/course/109539/syllabus)|Deep Learning Specialization in Russian |**Completed**|
+| [Stepik](https://stepik.org/course/109539/syllabus)|[Deep Learning Specialization in Russian](https://drive.google.com/file/d/1GzBxXFYX57cAjC08QPLGVWIshOLEdQcu/view?usp=sharing) |**Completed**|
 | [Coursera](https://www.coursera.org/specializations/deep-learning)|Machine Learning Specialization (Deep learning.ai)| **In progress** |
 | [Datacamp](https://campus.datacamp.com/courses/introduction-to-deep-learning-in-python/basics-of-deep-learning-and-neural-networks?ex=1)|Deep learning| ***TODO***|
 | [Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)|Tensorflow for deep learning|***TODO***|
@@ -72,6 +73,16 @@
 |[English langauge]|IELTS Academic(7.5)|**Completed**|
 |[German langauge]|Goethe|***TODO***|
 
+## Full Stack
+| URL | Title | Status |
+| :---: | --- | :---: |
+|[Free coding camp](https://www.youtube.com/watch?v=bMknfKXIFA8&t=33481s )|React|**Completed**|
+|[Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c )|Javascript|**Completed**|
+|[Traversy Media](https://www.youtube.com/watch?v=mTz0GXj8NN0)|Next.js|**Completed**|
+|[Programming with Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA )|MySQL|**Completed**|
+|[Nick Frostbutter](https://www.youtube.com/watch?v=vmSTJI3gFSg&list=PLk-EmIiBIYGF8WCitdIVq7dvvacqY0rdl)|phpMyAdmin Tutorial|**Completed**|
+
+
 ## Youtube playlists courses
 ### Courses
 | URL | Title | Status |
@@ -80,11 +91,7 @@
 |[Ahmed Yousry](https://www.youtube.com/playlist?list=PLPBnj6azlABbaGuOzR40nvlzPWAKMv_qA)|Machine Learning Algorithms بالعربى|**Completed**|
 |[buildwithpython](https://www.youtube.com/playlist?list=PLhTjy8cBISEoOtB5_nwykvB9wfEDscuEo)|Sentiment Analysis with/without NLTK Python|**Completed**|
 |[CodeBasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)|NLP|**Completed**|
-|[Programming with Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA )|MySQL|**Completed**|
-|[Free coding camp](https://www.youtube.com/watch?v=bMknfKXIFA8&t=33481s )|React|**Completed**|
-|[Yandex](https://www.youtube.com/watch?v=k3UJOG-DKHE&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC )|Тренировки по ML|**Completed**|
-|[Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c )|Javascript|**Completed**|
-|[Traversy Media](https://www.youtube.com/watch?v=mTz0GXj8NN0)|Next.js|**Completed**|
+|[Yandex](https://www.youtube.com/watch?v=k3UJOG-DKHE&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC )|Тренировки по ML|**Completed**|\
 |[Hesham Asem](https://www.youtube.com/@HeshamAsem/playlists)|18 Playlistes regarding ML & DL concepts|***TODO***|
 |[Ahmed Yousry](https://www.youtube.com/playlist?list=PLPBnj6azlABatXqkOgE4-Suu2ucfax42F)|AI search Algos in py بالعربى|***TODO***|
 |[Ahmed Yousry](https://www.youtube.com/playlist?list=PLPBnj6azlABZt1fD0B64lSkG1QktaF6kj)|Artificial Neural Networks|***TODO***|
