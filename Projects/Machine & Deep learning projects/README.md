@@ -1,6 +1,6 @@
 # Projects (Sorted by favorite)
 
-## ML
+## ML projects
 | Project | Description |
 | --- | --- |
 |[`Prompt-Recommender`](https://github.com/Strikoder/Prompt-Recommender)|ActasGPT is an innovative project that leverages transformers techniques to enhance prompt prediction|
@@ -18,5 +18,10 @@
 | --- | --- |
 |[`Attention-GPT`](https://github.com/Strikoder/FromScratch/blob/main/Attention-GPT/Attention%20is%20all%20you%20need.ipynb)|Vanilla implementation of attention|
 |[`U-net`](https://github.com/Strikoder/FromScratch/tree/main/unet)|U-net implementation|
+
+## Miscellaneous
+| Project | Description |
+| --- | --- |
+|FMRI(https://github.com/Strikoder/DS-ML-DL/blob/main/Projects/Machine%20%26%20Deep%20learning%20projects/FMRI(ADHD).ipynb)|A training notebook to learn about FMRI|
 
 [Kaggle notebooks](https://www.kaggle.com/strikoder/code)
