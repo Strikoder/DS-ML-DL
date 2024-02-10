@@ -1,103 +1,25 @@
-# Welcome to my data science, Machine learning & Deep learning repo, make yourself at home ^^ (Not relevant anymore)
-
 ## You can either take a look at [my all projects](https://github.com/Strikoder/Data-Science/tree/main/Projects)
 ## OR
 ## Visit [my Website](https://strikoder.github.io) to check my best projects
 
 <p align="center"> 
-<img src="https://media.proglib.io/posts/2020/08/28/90db79d10aad3cf4486d8420c9cdc16b.png" width="800">
+<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/12/AR@2x-768x233.png" width="600">
 </p>
 
----
-# My humble roadmap.
+# Projects (Sorted by favorite)
 
----
-# AI related
+## ML
+| Project | Description |
+| --- | --- |
+| [`SMS spam Classifier`](https://github.com/Strikoder/SMS-Spam-Filter) |Analyzing and predicting spam texts. |
+| [`Film recommendation system`](https://github.com/Strikoder/FilmRecommender) |Recommendaiton system based on content/ collaborating.|
+| [`CelebrityFacesClassification`](https://github.com/Strikoder/celeb-face-recognition) |Utilizing openCV to classifiy celebrites and they deploying the project |
+| [`Bengaluru House price data - End to end project`](https://github.com/Strikoder/DS-ML-DL/tree/main/Projects/Machine%20%26%20Deep%20learning%20projects/(Kaggle)%20Bengaluru%20House%20price%20data) |Building a model then deploying it to predict the house prices in Bengaluru - India. |
+| [`House Prices - Kaggle`](https://github.com/Strikoder/DS-ML-DL/blob/main/Projects/(Kaggle)%20House%20Prices%20-%20Advanced%20Regression%20Techniques/%23Improved_Home_prices.ipynb) |Solving real-modern world problems by machine learning and deep learning models. |
+| [`User churn prediction - Kaggle`](https://github.com/Strikoder/DS-ML-DL/blob/main/Projects/Machine%20%26%20Deep%20learning%20projects/(DLS-Kaggle)%20%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/baseline.ipynb) |Solving and analyzing User churn data by machine learning models. |
+| [`Predicting Credit Card Approvals - Datacamp`](https://github.com/Strikoder/DS-ML-DL/blob/main/Projects/Machine%20%26%20Deep%20learning%20projects/(DCamp)Predicting%20Credit%20Card%20Approvals/notebook.ipynb) |Analyzing and predicting credit card data. |
 
-## Data science with Python
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [DataCamp](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python)|[Data Scientist with Python](https://drive.google.com/file/d/17sGtMPGt5xCbbeNt0AqMVM-W9XnIO452/view?usp=sharing)| **Completed** |
-| [Code basics](https://codebasics.io/courses/data-science-full-course-for-beginners)|Data science for beginners|**Completed**|
-| [Free coding camp](https://www.freecodecamp.org/learn/scientific-computing-with-python)|Scientific computing with python|**In progress**|
+## From scratch
 
-
-## [My projects](https://github.com/Strikoder/DS-ML-DL/tree/main/Projects)
-
-## ML Fundamentals
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [Electro Pi](https://electropi.ai/courses)|Machine Learning courses (I got an Internship and got employed at their company :D|**Completed**|
-| [Coursera](https://www.coursera.org/account/accomplishments/specialization/466J7ZTQEG6T)|Machine Learning Specialization (Deep learning.ai)| **Completed** |
-| [Free coding camp](https://www.freecodecamp.org/learn/machine-learning-with-python)|Machine learning with python|**In progress**|
-| [Datacamp](https://app.datacamp.com/learn/career-tracks/machine-learning-scientist-with-python)|Machine Learning Scientist with Python| **In progress** |
-| [Kaggle 30 days of ML](https://www.youtube.com/watch?v=_55G24aghPY&list=PL98nY_tJQXZnP-k3qCDd1hljVSciDV9_N)|30 days challenge of machine learning on Kaggle platform|***TODO***|
-
-
-
-## Deep Learning
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [Stepik](https://stepik.org/course/109539/syllabus)|[Deep Learning Specialization in Russian](https://drive.google.com/file/d/1GzBxXFYX57cAjC08QPLGVWIshOLEdQcu/view?usp=sharing) |**Completed**|
-| [Coursera](https://www.coursera.org/specializations/deep-learning)|Machine Learning Specialization (Deep learning.ai)| **In progress** |
-| [Datacamp](https://campus.datacamp.com/courses/introduction-to-deep-learning-in-python/basics-of-deep-learning-and-neural-networks?ex=1)|Deep learning| ***TODO***|
-| [Udacity](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)|Tensorflow for deep learning|***TODO***|
-
-## Prompt Engineering
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)|Chat gpt prompt engineering for developers|**Completed**|
-
-
----
-# Other skills & certifications
-## General & Related stuff to programming
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [Coursera](https://drive.google.com/file/d/1-f6L78jb1Q8xMg-NzpNO9rT36GPx2BgA/view?usp=sharing)|OOP in Java(UC San Diego)|**Completed**|
-| [1 MILLION ARAB CODERS INITIATIVE](https://drive.google.com/file/d/1yi91vUhufCSHkWjDhrU0mu2jYen1ukD2/view?usp=sharing)|Full Stack Development Track|**Completed**|
-| [New Horizons c#](https://drive.google.com/file/d/1XDgIyO4yGhWI8SKDDVKaEhUGsDPIM4RM/view?usp=sharing)|Microsoft visual C# core|**Completed**|
-
-
-## Soft Skills
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-|[Namaa-life skills](https://drive.google.com/file/d/1iufd4GxmqRFCJUIfoABAZh2RoS6rOCD0/view?usp=sharing)|Life skills|**Completed**|
-|[Russian langauge]|B2|**Complteded**|
-|[English langauge]|IELTS Academic(7.5)|**Completed**|
-|[German langauge]|Goethe|***TODO***|
-
-## Full Stack
-| URL | Title | Status |
-| :---: | --- | :---: |
-|[Free coding camp](https://www.youtube.com/watch?v=bMknfKXIFA8&t=33481s )|React|**Completed**|
-|[Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c )|Javascript|**Completed**|
-|[Traversy Media](https://www.youtube.com/watch?v=mTz0GXj8NN0)|Next.js|**Completed**|
-|[Programming with Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA )|MySQL|**Completed**|
-|[Nick Frostbutter](https://www.youtube.com/watch?v=vmSTJI3gFSg&list=PLk-EmIiBIYGF8WCitdIVq7dvvacqY0rdl)|phpMyAdmin Tutorial|**Completed**|
-
-
-## Youtube playlists courses
-### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-|[CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)|Crash Course Computer Science|**Completed**|
-|[Ahmed Yousry](https://www.youtube.com/playlist?list=PLPBnj6azlABbaGuOzR40nvlzPWAKMv_qA)|Machine Learning Algorithms بالعربى|**Completed**|
-|[buildwithpython](https://www.youtube.com/playlist?list=PLhTjy8cBISEoOtB5_nwykvB9wfEDscuEo)|Sentiment Analysis with/without NLTK Python|**Completed**|
-|[CodeBasics](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)|NLP|**Completed**|
-|[Yandex](https://www.youtube.com/watch?v=k3UJOG-DKHE&list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC )|Тренировки по ML|**Completed**|\
-|[Hesham Asem](https://www.youtube.com/@HeshamAsem/playlists)|18 Playlistes regarding ML & DL concepts|***TODO***|
-|[Ahmed Yousry](https://www.youtube.com/playlist?list=PLPBnj6azlABatXqkOgE4-Suu2ucfax42F)|AI search Algos in py بالعربى|***TODO***|
-|[Ahmed Yousry](https://www.youtube.com/playlist?list=PLPBnj6azlABZt1fD0B64lSkG1QktaF6kj)|Artificial Neural Networks|***TODO***|
-|[Ahmed Yousry](https://www.youtube.com/playlist?list=PLPBnj6azlABaYCtajh-TOpZ4UKcvWYQCj)|Deep Neural Network using Keras|***TODO***|
-|[Aladdin Persson](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxeoooqP9rhU3HJIAVAJ3Vz)|PyTorch Tutorials|***TODO***|
-|[Jeremy Howard](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)|Practical Deep Learning for Coders 2022|***TODO***|
-|[Cornell Tech CS 5787](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)|Applied Machine Learning|***TODO***|
-|[Alex the analyst](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF)|Data Analyst Bootcamp|***TODO***|
+[Kaggle notebooks](https://www.kaggle.com/strikoder/code)
 
