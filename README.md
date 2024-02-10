@@ -1,10 +1,7 @@
-## You can either take a look at [my all projects](https://github.com/Strikoder/Data-Science/tree/main/Projects)
-## OR
-## Visit [my Website](https://strikoder.github.io) to check my best projects
+Hi there! Welcome to SktrikoProjects, where I share my journey through Machine Learning, Data Science, and Deep Learning. It's a collection of my curiosity-driven projects.
 
-<p align="center"> 
-<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2018/12/AR@2x-768x233.png" width="600">
-</p>
+For more of my work, you can also check out my [Kaggle profile](https://github.com/Strikoder/Data-Science/tree/main/Projects)
+OR check the projects below:
 
 # Projects (Sorted by favorite)
 
@@ -19,7 +16,4 @@
 | [`User churn prediction - Kaggle`](https://github.com/Strikoder/DS-ML-DL/blob/main/Projects/Machine%20%26%20Deep%20learning%20projects/(DLS-Kaggle)%20%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/baseline.ipynb) |Solving and analyzing User churn data by machine learning models. |
 | [`Predicting Credit Card Approvals - Datacamp`](https://github.com/Strikoder/DS-ML-DL/blob/main/Projects/Machine%20%26%20Deep%20learning%20projects/(DCamp)Predicting%20Credit%20Card%20Approvals/notebook.ipynb) |Analyzing and predicting credit card data. |
 
-## From scratch
-
-[Kaggle notebooks](https://www.kaggle.com/strikoder/code)
 
